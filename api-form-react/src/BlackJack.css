@@ -1,0 +1,11 @@
+.blackjack-container {
+  max-width: 520px;
+  margin: 2rem auto;
+  font-family: system-ui, sans-serif;
+}
+
+.blackjack-buttons {
+  display: flex;
+  gap: 8px;
+  margin-bottom: 12px;
+}
